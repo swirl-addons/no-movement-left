@@ -1,6 +1,6 @@
 local MOVEMENT_ABILITIES = {
     DEATHKNIGHT = {48265}, -- death's advance
-    DEMONHUNTER = {195072, 189110}, -- fel rush, infernal strike
+    DEMONHUNTER = {195072, 189110, 1234796}, -- fel rush, infernal strike, shift
     DRUID = {252216, 102401}, -- dash, tiger dash, wild charge
     EVOKER = {358267}, -- hover
     HUNTER = {781}, -- disengage
