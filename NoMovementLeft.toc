@@ -1,4 +1,4 @@
-## Interface: 120005
+## Interface: 120007
 
 ## Title: No Movement Left
 ## Notes: Displays a countdown when you are out of movement abilities
